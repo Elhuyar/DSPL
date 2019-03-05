@@ -21,7 +21,7 @@ my $usage = <<"_USAGE_";
         2. reference corpus  (-r | --reference= ): frequency list of the lemmas of the reference corpus used in the comparison. Format is tabulated format "frequency \t lemma". 
         3. association measure(-m | --measure= ): association measure to be used on comparing corpora. Default value is llr. possible values: (ll|log-odds|odds|pmi|fisher|diff).
         4. -v | --verbose : print extra info.
-        #4. 3(+NONE) class classification (1): default is 5(+NONE) class classification, if 1 is pass as argument 3 class arrff will be prepared.
+       
     Output: 
           Standard output.  
 
